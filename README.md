@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Peeyush033">
-    <img src="https://komarev.com/ghpvc/?username=Peeyush033&label=Profile%20views&color=00FFFF&style=flat-square" alt="Peeyush033's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Peeyush033&label=Profile%20views&color=A77F60&style=flat-square" alt="Peeyush033's profile views" />
   </a>
 </p>
 
@@ -73,8 +73,8 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/peeyush-rajpoot-9a3774226?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0000FF" alt="Peeyush..'s LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:piyushrajpoot033@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=E8DDB4" alt="Peeyush..'s Email"/></a>
+  <a href="https://www.linkedin.com/in/peeyush-rajpoot-9a3774226?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=A77F60" alt="Peeyush..'s LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:piyushrajpoot033@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=A77F60" alt="Peeyush..'s Email"/></a>
 </p>
 
 <p align="center">
